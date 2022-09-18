@@ -1,0 +1,19 @@
+{
+  "name": "store-app",
+  "version": "1.0.0",
+  "description": "store app to keep recored ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erimo4real/Inventory-Store-App.git"
+  },
+  "author": "erimo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erimo4real/Inventory-Store-App/issues"
+  },
+  "homepage": "https://github.com/erimo4real/Inventory-Store-App#readme"
+}
