@@ -15,5 +15,19 @@
   "bugs": {
     "url": "https://github.com/erimo4real/Inventory-Store-App/issues"
   },
-  "homepage": "https://github.com/erimo4real/Inventory-Store-App#readme"
+  "homepage": "https://github.com/erimo4real/Inventory-Store-App#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "cloudinary": "^1.32.0",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.6.1",
+    "nodemailer": "^6.7.8",
+    "stripe": "^10.10.0",
+    "validator": "^13.7.0"
+  }
 }
